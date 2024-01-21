@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, welcome to my homepage! I am Ph.D. student in Department of Mathematics at City University of Hong Kong. My research interests includes Wavelet/Framelet Analysis, Optimization and Spherical Design.
+Hello, welcome to my homepage! I am a Ph.D. student in Department of Mathematics at City University of Hong Kong. My research interests includes Wavelet/Framelet Analysis, Optimization and Spherical Design.
 
 You can find my offical university website [here](https://scholars.cityu.edu.hk/en/persons/yuchen-xiao(1b9e58f5-4ced-4ab9-8f42-998a38a8b89f).html). 
 
