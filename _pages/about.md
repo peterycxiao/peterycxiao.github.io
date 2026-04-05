@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Faculty of Mathematics, Technische Universitaet Chemnitz. My research interests lie in applied and computational harmonic analysis, optimization and approximation theory, and spherical designs, with applications to scientific computing, image and signal processing, and machine learning.
+I am a postdoctoral researcher at the Faculty of Mathematics, Technische Universität Chemnitz. My research interests lie in applied and computational harmonic analysis, optimization and approximation theory, and spherical designs, with applications to scientific computing, image and signal processing, and machine learning.
 
 Before joining TU Chemnitz, I completed my PhD in Applied Mathematics at the City University of Hong Kong in October 2024. I also worked there as a Research Assistant from 2019 to 2020. Earlier, I earned my MPhil in Computational Mathematics and BSc in Mathematics and Applied Mathematics from Jinan University.
 
-My current research focuses on wavelets and framelets, spherical harmonic methods, numerical analysis, and computational approaches for approximation on the sphere.
+My current research focuses on wavelets and framelets, spherical harmonic methods, numerical analysis, and computational approaches for approximation on the sphere. I am also actively involved in teaching undergraduate and graduate mathematics, especially courses in calculus, linear algebra, probability, statistics, inverse problems, and mathematical imaging.
 
 Links
 ======

@@ -19,3 +19,5 @@ During my doctoral studies, I contributed to teaching and student support at the
 - MA2185 - Discrete Mathematics (21-22 Sem A)
 - MA2507 - Computing Mathematics Laboratory (22-23 Sem B)
 - MA2506 / MA2510 - Probability and Statistics (20-21 Sem B)
+
+This experience strengthened my interest in foundational undergraduate teaching, especially in calculus, linear algebra, probability, and statistics, while also giving me extensive experience supporting students with different mathematical backgrounds.

@@ -12,7 +12,7 @@ redirect_from:
 Contact
 ======
 
-Faculty of Mathematics, Technische Universitaet Chemnitz, C46.617, Reichenhainer Strasse 39, 09126 Chemnitz, Germany
+Faculty of Mathematics, Technische Universität Chemnitz, C46.617, Reichenhainer Strasse 39, 09126 Chemnitz, Germany
 
 Email: [yuchen.xiao@mathematik.tu-chemnitz.de](mailto:yuchen.xiao@mathematik.tu-chemnitz.de)
 
@@ -28,7 +28,7 @@ Research Interests
 Employment
 ======
 
-* Postdoctoral Researcher, Technische Universitaet Chemnitz, Germany, Sep. 2024 - Sep. 2026
+* Postdoctoral Researcher, Technische Universität Chemnitz, Germany, Sep. 2024 - Sep. 2026
 * Research Assistant, City University of Hong Kong, Hong Kong SAR, Oct. 2019 - Aug. 2020
 
 Education
@@ -61,12 +61,14 @@ Selected Activities
 Publications
 ======
 
-Selected publications include work on spherical designs, spherical framelets, and adaptive directional Haar tight framelets.
+Journal publications and preprints include:
 
-* "Spherical designs for function approximation and beyond" (2025)
-* "Spherical Framelets from Spherical Designs" (2023)
-* "Adaptive Directional Haar Tight Framelets on Bounded Domains for Digraph Signal Representations" (2021)
-* "Numerical construction of spherical t-designs by Barzilai-Borwein method" (2020)
+* Xiao, Y., and Zhuang, X. "Spherical designs for function approximation and beyond." *Sampling Theory, Signal Processing, and Data Analysis*, 23(2):9, 2025.
+* Xiao, Y. "Image Restoration on the Sphere: A Hybrid Scheme of Spherical Wavelet Frames and Primal-Dual Algorithms." Preprint, 2025.
+* Xiao, Y., and Zhuang, X. "Spherical Designs for Function Approximation and Beyond." *arXiv preprint* arXiv:2311.18333, 2023.
+* Xiao, Y., and Zhuang, X. "Spherical Framelets from Spherical Designs." *SIAM Journal on Imaging Sciences*, 16(4):2072-2104, 2023.
+* Xiao, Y., and Zhuang, X. "Adaptive directional Haar tight framelets on bounded domains for digraph signal representations." *Journal of Fourier Analysis and Applications*, 27:1-26, 2021.
+* An, C., and Xiao, Y. "Numerical construction of spherical t-designs by Barzilai-Borwein method." *Applied Numerical Mathematics*, 150:295-302, 2020.
 
 For a fuller list, see [my publications page](/publications/), [Google Scholar](https://scholar.google.com/citations?user=CTYKbqQAAAAJ&hl=en), or [my CV PDF](/assets/Curriculum%20Vitae_YuchenXiao.pdf).
 
