@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching at City University of Hong Kong"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "University teaching"
+permalink: /teaching/city-university-of-hong-kong
+venue: "City University of Hong Kong"
+date: 2020-09-01
+location: "Hong Kong SAR, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During my doctoral studies, I contributed to teaching and student support at the City University of Hong Kong from September 2020 to June 2024.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Math Help Center (2020 - 2024)
+- MA1200 - Calculus and Basic Linear Algebra I (20-21 Sem A-B, 22-23 Sem B)
+- MA1201 - Calculus and Basic Linear Algebra II (20-21 Sem A, 21-22 Sem B)
+- MA1300 - Enhanced Calculus and Linear Algebra I (22-23 Sem A)
+- MA1501 / GE1358 - Coordinate Geometry (23-24 Sem B)
+- MA2172 - Applied Statistics for Sciences and Engineering (20-21 Sem A-B, 23-24 Sem A)
+- MA2185 - Discrete Mathematics (21-22 Sem A)
+- MA2507 - Computing Mathematics Laboratory (22-23 Sem B)
+- MA2506 / MA2510 - Probability and Statistics (20-21 Sem B)

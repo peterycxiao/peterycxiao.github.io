@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching at Technische Universitaet Chemnitz"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "University teaching"
+permalink: /teaching/technische-universitaet-chemnitz
+venue: "Technische Universitaet Chemnitz"
+date: 2024-09-01
+location: "Chemnitz, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Courses taught or supported at Technische Universitaet Chemnitz since September 2024 include:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- A Mathematical Introduction to Learning Theory / Mathematische Grundlagen der Lerntheorie (26 SS)
+- Mathematics for Science and Engineering II (26 SS)
+- Mathematics for Science and Engineering I (25/26 WS)
+- Mathematical Methods in Image Processing / Mathematische Methoden der Bildverarbeitung (24/25 WS)
+- Inverse Problem / Inverse Probleme (25 SS)

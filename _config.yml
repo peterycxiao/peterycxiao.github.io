@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuchen Xiao / Homepage"
 title_separator          : "-"
 name                     : &name "Yuchen Xiao"
-description              : &description "Mathematical Researcher"
+description              : &description "Postdoctoral researcher in applied mathematics"
 url                      : https://peterycxiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peterycxiao/peterycxiao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuchen Xiao"
   avatar           : "IMG_1118.png"
-  bio              : "Ph.D. student in Applied Mathematics"
-  location         : "Hong Kong"
-  employer         :
+  bio              : "Postdoctoral researcher in applied mathematics at Technische Universitaet Chemnitz"
+  location         : "Chemnitz, Germany"
+  employer         : "Technische Universitaet Chemnitz"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=CTYKbqQAAAAJ&hl=en"
-  email            :
+  email            : "yuchen.xiao@mathematik.tu-chemnitz.de"
   researchgate     : "https://www.researchgate.net/profile/Yuchen-Xiao-10"
   uri              :
   bitbucket        :
