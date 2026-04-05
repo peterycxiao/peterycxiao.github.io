@@ -61,11 +61,10 @@ Selected Activities
 Publications
 ======
 
-Journal publications and preprints include:
+Selected journal publications and preprints include:
 
 * Xiao, Y., and Zhuang, X. "Spherical designs for function approximation and beyond." *Sampling Theory, Signal Processing, and Data Analysis*, 23(2):9, 2025.
 * Xiao, Y. "Image Restoration on the Sphere: A Hybrid Scheme of Spherical Wavelet Frames and Primal-Dual Algorithms." Preprint, 2025.
-* Xiao, Y., and Zhuang, X. "Spherical Designs for Function Approximation and Beyond." *arXiv preprint* arXiv:2311.18333, 2023.
 * Xiao, Y., and Zhuang, X. "Spherical Framelets from Spherical Designs." *SIAM Journal on Imaging Sciences*, 16(4):2072-2104, 2023.
 * Xiao, Y., and Zhuang, X. "Adaptive directional Haar tight framelets on bounded domains for digraph signal representations." *Journal of Fourier Analysis and Applications*, 27:1-26, 2021.
 * An, C., and Xiao, Y. "Numerical construction of spherical t-designs by Barzilai-Borwein method." *Applied Numerical Mathematics*, 150:295-302, 2020.

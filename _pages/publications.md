@@ -25,7 +25,6 @@ Preprints
 ======
 
 - Xiao, Y. "Image Restoration on the Sphere: A Hybrid Scheme of Spherical Wavelet Frames and Primal-Dual Algorithms." Preprint, 2025.
-- Xiao, Y., and Zhuang, X. "Spherical Designs for Function Approximation and Beyond." *arXiv preprint* arXiv:2311.18333, 2023.
 
 Conference Proceedings
 ======
