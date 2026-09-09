@@ -22,7 +22,7 @@ My research publications focus on spherical designs, harmonic analysis, framelet
 
 ## Preprints
 
-- Neumayer, S., Potts, D., Xiao, Y., and Zhuang, X. "Adaptive Spherical Framelet-TV Regularization on Nested Spherical Designs." Preprint, 2026. Submitted.
+- Xiao, Y. "Adaptive Spherical Framelet-TV Regularization on Nested Spherical Designs." Preprint, 2026. In preparation for submission.
 
 ## Conference Proceedings
 
