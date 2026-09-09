@@ -12,8 +12,6 @@ I am a postdoctoral researcher at the Faculty of Mathematics, Technische Univers
 
 Before joining TU Chemnitz, I completed my PhD in Applied Mathematics at the City University of Hong Kong in October 2024. I also worked there as a Research Assistant from 2019 to 2020. Earlier, I earned my MPhil in Computational Mathematics and BSc in Mathematics and Applied Mathematics from Jinan University.
 
-My current work includes *Adaptive Spherical Framelet-TV Regularization on Nested Spherical Designs*, a 2026 preprint in preparation for submission. See my [publications](/publications/) for this work and my papers on spherical designs and framelets.
-
 I received the Outstanding Research Thesis Award from City University of Hong Kong in 2025 and the CSCI Excellent Paper Award in 2024. My [teaching experience](/teaching/) includes learning theory, inverse problems, mathematical imaging, and foundational mathematics.
 
 ## Links
@@ -28,7 +26,3 @@ I received the Outstanding Research Thesis Award from City University of Hong Ko
 - **Applied and computational harmonic analysis:** wavelet and framelet theory, discrete wavelet transforms, fast Fourier transforms, and scientific computing.
 - **Optimization and approximation theory:** numerical analysis, image and signal processing, and deep and machine learning.
 - **Spherical designs:** construction, verification, and applications.
-
-## Embodied Intelligence
-
-I co-founded Shenzhen VistaWind Technology Co., Ltd., the embodied-intelligence robotics start-up behind Lerrem. [Read about my work on its adaptive robotic massage system](/embodied-intelligence/).
