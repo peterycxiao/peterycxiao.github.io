@@ -44,7 +44,7 @@ See [my publications page](/publications/) for the full list and current preprin
 
 ## Embodied Intelligence
 
-I co-founded Shenzhen VistaWind Technology Co., Ltd., the embodied-intelligence robotics start-up behind [Lerrem](https://lerrem.com/). [Read about my work on its adaptive robotic massage system](/#embodied-intelligence).
+I co-founded Shenzhen VistaWind Technology Co., Ltd., the embodied-intelligence robotics start-up behind [Lerrem](https://lerrem.com/). [Read about my work on its adaptive robotic massage system](/embodied-intelligence/).
 
 ## Teaching
 
