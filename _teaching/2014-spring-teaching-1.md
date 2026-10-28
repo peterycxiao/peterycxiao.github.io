@@ -16,4 +16,4 @@ My teaching experience at Technische Universität Chemnitz covers September 2024
 - Inverse Problem / Inverse Probleme (25 SS)
 - Mathematical Methods in Image Processing / Mathematische Methoden der Bildverarbeitung (24/25 WS)
 
-In addition to lecturing support, I help organize Übungen by preparing exercise sheets, writing suggested solutions, designing coding tasks, and maintaining course materials in a consistent, reproducible file structure together with the lecturer.
+In addition to lecturing support, I helped organize Übungen by preparing exercise sheets, writing suggested solutions, designing coding tasks, and maintaining course materials in a consistent, reproducible file structure together with the lecturer.

@@ -17,6 +17,7 @@ Applied and computational harmonic analysis; wavelets and framelets; optimizatio
 
 ## Employment
 
+* Postdoctoral Researcher, City University of Hong Kong, Hong Kong SAR, Oct. 2026 - Apr. 2027
 * Postdoctoral Researcher, Technische Universität Chemnitz, Germany, Sep. 2024 - Sep. 2026
 * Research Assistant, City University of Hong Kong, Hong Kong SAR, Oct. 2019 - Aug. 2020
 
