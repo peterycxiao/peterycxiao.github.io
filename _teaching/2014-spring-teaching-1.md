@@ -6,6 +6,7 @@ permalink: /teaching/technische-universitaet-chemnitz
 venue: "Technische Universität Chemnitz"
 date: 2024-09-01
 location: "Chemnitz, Germany"
+excerpt: "My teaching experience at Technische Universität Chemnitz covers September 2024 to September 2026."
 ---
 
 My teaching experience at Technische Universität Chemnitz covers September 2024 to September 2026. Courses taught or supported include:
