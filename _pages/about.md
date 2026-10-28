@@ -10,8 +10,6 @@ redirect_from:
 
 I have been a postdoctoral researcher at City University of Hong Kong since October 2026. My research interests lie in applied and computational harmonic analysis, optimization and approximation theory, and spherical designs, with applications to scientific computing, image and signal processing, and machine learning.
 
-Previously, I was a postdoctoral researcher at the Faculty of Mathematics, Technische Universität Chemnitz, from September 2024 to September 2026. I completed my PhD in Applied Mathematics at City University of Hong Kong in October 2024 and also worked there as a Research Assistant from 2019 to 2020. Earlier, I earned my MPhil in Computational Mathematics and BSc in Mathematics and Applied Mathematics from Jinan University.
-
 I received the Outstanding Research Thesis Award from City University of Hong Kong in 2025 and the CSCI Excellent Paper Award in 2024. My [teaching experience](/teaching/) includes learning theory, inverse problems, mathematical imaging, and foundational mathematics.
 
 ## Links
